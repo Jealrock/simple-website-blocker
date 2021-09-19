@@ -18,7 +18,8 @@
     "default_popup": "main.html"
   },
   "options_ui": {
-    "page": "main/main.html"
+    "open_in_tab": true,
+    "page": "main.html"
   },
   "web_accessible_resources": ["main.html"],
 
