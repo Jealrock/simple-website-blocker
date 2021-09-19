@@ -13,13 +13,11 @@
     ]
   },
   "browser_action": {
-    "browser_style": true,
     "default_icon": "icon.svg",
     "default_title": "Simple website blocker",
     "default_popup": "main.html"
   },
   "options_ui": {
-    "browser_style": true,
     "page": "main/main.html"
   },
   "web_accessible_resources": ["main.html"],
